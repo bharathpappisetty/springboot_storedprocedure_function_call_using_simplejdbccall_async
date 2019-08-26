@@ -1,0 +1,12 @@
+--- src/test/java/com/sp/call/StoredprocedurecallApplicationTests.java
++++ src/test/java/com/sp/call/StoredprocedurecallApplicationTests.java
+@@ -9,8 +9,6 @@ import org.springframework.test.context.junit4.SpringRunner;
+ @SpringBootTest
+ public class StoredprocedurecallApplicationTests {
+ 
+-	@Test
+-	public void contextLoads() {
+-	}
++	
+ 
+ }
